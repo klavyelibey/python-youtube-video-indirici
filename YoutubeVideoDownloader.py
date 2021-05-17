@@ -2,7 +2,7 @@
 from tkinter import *
 from tkinter import ttk
 from tkinter import filedialog
-from tkinter.tix import ComboBox
+from tkinter import ComboBox
 from pytube import YouTube
 
 klasor_adi=""
